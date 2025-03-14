@@ -10,7 +10,7 @@ Hi 👋, I'm Nauman Jamil, a Sr. Full-Stack Developer, specializing in building 
 
 👨‍💻 I've worked with fast growing startups like Cocoli, Ruggable, & Crystal Commerce! 
 
-💬 Ask me about Ruby / Ruby on Rails
+💬 Ask me about Ruby / Ruby on Rails / React
 
 📫 Reach out to me at naumanjamil99@gmail.com 
 
